@@ -1,2 +1,3 @@
 # Python-rpg
-None
+checklist:
+   1. Add images
